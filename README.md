@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="styles.css" />
 
-# <div style="margin-right: 18px; margin-top: 18px; display:flex; vertical-align: middle; align-items: center; max-width: 100%;"><img src="some stuff/namida.png" width="82" style="margin-right: 18px;">Namida</div>
+# <div style="margin-right: 18px; margin-top: 18px; display:flex; vertical-align: middle; align-items: center; max-width: 100%;"><img src="some stuff/namida.png" width="82" style="margin-right: 18px;">Mehr music</div>
 
 A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter
 
@@ -216,9 +216,9 @@ Animating Thumbnail        |  Recommends & Listens
 
 # Social
 - join us on our platforms for updates, tips, discussion & ideas
-  - [Telegram (Updates)](https://t.me/namida_official)
-  - [Telegram (Chat)](https://t.me/+FmdfsgKoGmM1ZGFk)
-  - [Discord](https://discord.gg/WeY7DTVChT)
+  - [Telegram (Updates)](https://t.me/mehrdadpasiyan)
+  - [Telegram (Chat)](https://t.me/mehrdadpasiyan
+  -
 # LICENSE
 
 Project is licensed under [EULA](https://github.com/namidaco/namida/blob/main/LICENSE) License.
